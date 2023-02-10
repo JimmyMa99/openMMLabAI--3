@@ -74,8 +74,10 @@ NVIDIA GeForce RTX 3090 *2
 ## 实验设计
 以弱监督伪标签作为监督，使用mmseg中deeplabV3+作为WSSS的第二阶段进行训练。
 
-##数据集 Pascal VOC 2012
+##数据集 Pascal VOC 2012 伪标签
 使用图像级标签生成伪标签，使用伪标签训练分割网络
+![图片](https://user-images.githubusercontent.com/101508488/218186376-2da4b4d8-886a-4b49-9fa7-4980f07835b1.png)
+
 
 |        Model        |  mIoU (%) |
 | :-----------------: |  :-------: |
