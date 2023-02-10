@@ -17,4 +17,5 @@ NVIDIA GeForce RTX 3090 *2
 |        Model        |  mIoU (%) |
 | :-----------------: |  :-------: |
 |DeeplabV3+(ResNet101)|   70   |
+
  checkpoints：链接：https://pan.baidu.com/s/1uvgWQXtPGAFHYGVjm7g1cg 提取码：bzpg 
