@@ -31,7 +31,7 @@ https://github.com/open-mmlab/OpenMMLabCamp/blob/main/AI%20%E5%AE%9E%E6%88%98%E8
 6. 使用MMDeploy部署语义分割模型（可选）
 
 本课代码：https://github.com/TommyZihao/MMSegmentation_Tutorials/tree/main/20230206
-
+checkpoints：链接：https://pan.baidu.com/s/1fv7_vgAS61QmlNZpz4xenA 提取码：88rz 
 
 ## 实验设备
 NVIDIA Tesla P40 * 1
@@ -79,4 +79,4 @@ NVIDIA GeForce RTX 3090 *2
 |        Model        |  mIoU (%) |
 | :-----------------: |  :-------: |
 |DeeplabV3+(ResNet101)|   70   |
- 
+ checkpoints：链接：https://pan.baidu.com/s/1uvgWQXtPGAFHYGVjm7g1cg 提取码：bzpg 
